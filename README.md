@@ -6,6 +6,10 @@
 
 - Desafios realizados :white_check_mark:
   1. Criando seu Primeiro Repositório no Git Para Compartilhar seu Progresso.
+- Demais arquivos e anotações do repositório :book:
+  - Variaveis- Tipos De Dados - Operadores Matematicos
+  - Loops e Arrays
+
 
 
 
