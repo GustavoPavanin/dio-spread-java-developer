@@ -1,268 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="188fe315-d81c-4e52-ad84-42886151105e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CollectionsJava/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollectionsJava/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollectionsJava/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollectionsJava/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollectionsJava/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollectionsJava/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollectionsJava/CollectionsJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CollectionsJava/src/ExerciciosStreamAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/.idea/Trabalhando-com-collenctions-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/src/main/java/ExemploList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trabalhando-com-collenctions-java/Lists/target/classes/ExemploList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.settings/.jsdtscope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloServlet/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.settings/.jsdtscope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/HelloTomcat/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/Servers/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/Servers/Tomcat v9.0 Server at localhost-config/catalina.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/Servers/Tomcat v9.0 Server at localhost-config/catalina.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/Servers/Tomcat v9.0 Server at localhost-config/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Variaveis-TiposDeDados-OperadoresMatematicos/Servers/Tomcat v9.0 Server at localhost-config/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-dio-poo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa1-Apresentacao/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa2-ConceituacaoDeMemoria/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa3-InstalacaoEConfiguracaoDoAmbiente/primeiroProjeto/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa3-InstalacaoEConfiguracaoDoAmbiente/primeiroProjeto/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa3-InstalacaoEConfiguracaoDoAmbiente/primeiroProjeto/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa3-InstalacaoEConfiguracaoDoAmbiente/primeiroProjeto/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa3-InstalacaoEConfiguracaoDoAmbiente/primeiroProjeto/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa3-InstalacaoEConfiguracaoDoAmbiente/primeiroProjeto/primeiroProjeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa3-InstalacaoEConfiguracaoDoAmbiente/primeiroProjeto/src/main/java/com/estruturadedados/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa3-InstalacaoEConfiguracaoDoAmbiente/primeiroProjeto/target/classes/com/estruturadedados/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/projetoatribuicaoreferencia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/projetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/src/main/java/com/projeto/atribuicaoreferencia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/src/main/java/com/projeto/atribuicaoreferencia/MeuObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/target/classes/com/estruturadedados/Main$1MeuObj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/target/classes/com/estruturadedados/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/target/classes/com/projeto/atribuicaoreferencia/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa4-AtribuicaoEReferenciaEmJava/projetoatribuicaoreferencia/target/classes/com/projeto/atribuicaoreferencia/MeuObj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/projetono.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/src/main/java/com/projetono/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/src/main/java/com/projetono/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/target/classes/com/projetono/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa5-ConceitoDeNoEEncadeamento/projetono/target/classes/com/projetono/No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa6-GenericsEmJava/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/.idea/projetono.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/projetono.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/src/main/java/com/projetono/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/src/main/java/com/projetono/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/target/classes/com/projetono/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/Aula1/Etapa7-RefatoracaoClasseNo/projetono/target/classes/com/projetono/No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/listaDuplamenteEncadeada.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/src/main/java/one/digitalinnovation/ListaCircular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/src/main/java/one/digitalinnovation/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/target/classes/one/digitalinnovation/ListaCircular.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/ListaCircular/target/classes/one/digitalinnovation/No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/arvorebinaria.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/src/main/java/one/digitalinnovation/ArvoreBinaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/src/main/java/one/digitalinnovation/BinNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/src/main/java/one/digitalinnovation/model/Obj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/src/main/java/one/digitalinnovation/model/ObjArvore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/target/classes/one/digitalinnovation/ArvoreBinaria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/target/classes/one/digitalinnovation/BinNo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/target/classes/one/digitalinnovation/model/Obj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/arvoreBinaria/target/classes/one/digitalinnovation/model/ObjArvore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/equalshashcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/target/classes/one/digitalinnovation/Carro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/equalshashCode/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/fila.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/src/main/java/one/digitalinnovation/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/src/main/java/one/digitalinnovation/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/target/classes/one/digitalinnovation/Fila.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/fila/target/classes/one/digitalinnovation/No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/fila.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/src/main/java/one/digitalinnovation/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/src/main/java/one/digitalinnovation/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/target/classes/one/digitalinnovation/Fila.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaGenerics/target/classes/one/digitalinnovation/No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/fila.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/src/main/java/one/digitalinnovation/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/src/main/java/one/digitalinnovation/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/target/classes/one/digitalinnovation/Fila.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/filaNoEmbutido/target/classes/one/digitalinnovation/No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/target/classes/one/digitalinnovation/Carro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/list/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/listaDuplamenteEncadeada.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/src/main/java/one/digitalinnovation/ListaDuplamenteEncadeada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/src/main/java/one/digitalinnovation/NoDuplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/target/classes/one/digitalinnovation/ListaDuplamenteEncadeada.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaDuplamenteEncadeada/target/classes/one/digitalinnovation/NoDuplo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/listaencadeada.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/src/main/java/one/digitalinnovation/ListaEncadeada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/src/main/java/one/digitalinnovation/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/target/classes/one/digitalinnovation/ListaEncadeada.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/listaencadeada/target/classes/one/digitalinnovation/No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/map/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/map/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/map/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/map/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/map/map.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/map/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/map/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/map/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/target/classes/one/digitalinnovation/Carro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/queue/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/set.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/target/classes/one/digitalinnovation/Carro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/set/target/classes/one/digitalinnovation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/src/main/java/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/target/classes/Carro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/stack/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CollectionsJava/bin/MapExercicios$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionsJava/bin/MapExercicios$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CollectionsJava/bin/MapExercicios$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionsJava/bin/MapExercicios$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CollectionsJava/bin/MapExercicios.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionsJava/bin/MapExercicios.class" afterDir="false" />
-    </list>
+    <list default="true" id="188fe315-d81c-4e52-ad84-42886151105e" name="Changes" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,6 +29,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642537519619</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1642538018273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642538018273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,5 +49,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
